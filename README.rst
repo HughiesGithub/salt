@@ -297,10 +297,8 @@ burada bulabilirsiniz :`salt/DEPENDENCIES.md <https://github.com/saltstack/salt/
 .. _Son Salt Belgeleri: https://docs.saltproject.io/en/latest/
 .. _Bir konu aç: https://github.com/saltstack/salt/issues/new/choose
 .. _SECURITY.md: https://github.com/saltstack/salt/blob/master/SECURITY.md
-.. _Calendar html: 
-https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html
-.. _Calendar ics: 
-https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.ics
+.. _Calendar html: https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html
+.. _Calendar ics: https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.ics
 
 License
 =======
