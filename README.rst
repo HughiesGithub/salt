@@ -102,7 +102,7 @@ Salt Powers VMware'in `VRealize Otomasyonu SaltStack Config`_ ve bulunabilir
 Juniper, Cisco, Cloudflare, Nutanix, Suse ve
 Tieto, birkaç isim.
 
-Topluluğumuzun orijinal sponsoru olan Saltstack, 2020'de VMware tarafından satın alındı  <https://www.vmware.com/company/acquisitions/saltstack.html>`_.
+Topluluğumuzun orijinal sponsoru olan Saltstack, 2020'de VMware tarafından satın alındı ​​<https://www.vmware.com/company/acquisitions/saltstack.html> `` _.
 Salt projesi, VMware'in desteklediği açık kaynaklı bir ekosistem olmaya devam ediyor ve
 katkıda bulunur. VMware, Salt'ın kod bütünlüğünü ve kalitesini sağlar
 Salt Projesinin resmi sponsoru ve yöneticisi olarak hareket ederek modüller. Birçok
