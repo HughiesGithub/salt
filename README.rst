@@ -71,7 +71,7 @@ Salt has many possible uses, including configuration management, which involves:
 Salt, konfigürasyon yönetimi için idealdir, çünkü takılabilir,
 Özelleştirilebilir ve birçok mevcut teknolojiyle iyi oynar. Salt sizi mümkün kılar
 Neredeyse her şeyde çalışan herhangi bir teknoloji yığınını kullanan uygulamaları dağıtmak ve yönetmek için
-`İşletim Sistemi <https://docs.saltproject.io/Salt/install-guide/en/latest/topics/salt-supported-omepating-systems.html>` _,
+`İşletim Sistemi <https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-supported-operating-systems.html>`_, 
 Anahtarlar ve yönlendiriciler gibi farklı ağ aygıtları türleri dahil
 Çeşitli satıcılar.
 
@@ -102,7 +102,7 @@ Salt Powers VMware'in `VRealize Otomasyonu SaltStack Config`_ ve bulunabilir
 Juniper, Cisco, Cloudflare, Nutanix, Suse ve
 Tieto, birkaç isim.
 
-Topluluğumuzun orijinal sponsoru olan Saltstack, 2020'de VMware tarafından satın alındı ​​<https://www.vmware.com/company/acquisitions/saltstack.html> `` _.
+Topluluğumuzun orijinal sponsoru olan Saltstack, 2020'de VMware tarafından satın alındı <https://www.vmware.com/company/acquisitions/saltstack.html>`_.
 Salt projesi, VMware'in desteklediği açık kaynaklı bir ekosistem olmaya devam ediyor ve
 katkıda bulunur. VMware, Salt'ın kod bütünlüğünü ve kalitesini sağlar
 Salt Projesinin resmi sponsoru ve yöneticisi olarak hareket ederek modüller. Birçok
@@ -128,12 +128,12 @@ Salt'ı indirin ve yükleyin
 =========================
 Salt, Centos, Debian, Rhel, Ubuntu, MacOS üzerinde çalışacak şekilde test edilir ve paketlenir.
 Windows ve daha fazlası. Salt indirin ve şimdi başlayın. Görmek
-`Desteklenen işletim sistemleri <https://docs.saltproject.io/Salt/install-guide/en/latest/topics/salt-supported-omepating-systems.html>` `` ``
+`Desteklenen işletim sistemleri <https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-supported-operating-systems.html>`_ 
 daha fazla bilgi için.
 
 Salt'ı indirmek ve yüklemek için bkz.
-* `Salt Kurulum Kılavuzu <https://docs.saltproject.io/salt/install-guide/en/latest/index.html>` `_
-* `Salt Proje Deposu <https://repo.saltproject.io/>` `_
+* `Salt Kurulum Kılavuzu <https://docs.saltproject.io/salt/install-guide/en/latest/index.html>`_
+* `Salt Proje Deposu <https://repo.saltproject.io/>`_
 
 Download and install Salt
 =========================
@@ -148,7 +148,7 @@ To download and install Salt, see:
 
 Teknik Destek
 =================
-Bir sorun açarak tuz kullanma hatalarını veya sorunları bildirin: `<https://github.com/saltstack/salt/issues>` `_
+Bir sorun açarak tuz kullanma hatalarını veya sorunları bildirin: `<https://github.com/saltstack/salt/issues>`_
 
 Fikirleri, en iyi uygulamaları değiştirebileceğiniz topluluk forumumuza katılmak için,
 Teknik destek sorularını tartışın ve proje bakımcılarıyla konuşun,
@@ -166,10 +166,10 @@ Salt Projesi Belgeleri
 ==========================
 Kurulum talimatları, öğreticiler, derinlemesine API ve modül belgeleri:
 
-* `Salt Kurulum Kılavuzu <https://docs.saltproject.io/salt/install-guide/en/latest/index.html>` `_
-* `Salt Kullanıcı Kılavuzu <https://docs.saltproject.io/salt/user-guide/en/latest/>` `_
+* `Salt Kurulum Kılavuzu <https://docs.saltproject.io/salt/install-guide/en/latest/index.html>`_
+* `Salt Kullanıcı Kılavuzu <https://docs.saltproject.io/salt/user-guide/en/latest/>`_
 * `Son Salt belgeleri`_
-* `Salt'ın katkıda bulunan rehberi
+* `Salt'ın katkıda bulunan rehberi <https://docs.saltproject.io/en/master/topics/development/contributing.html>`_
 
 Salt Project documentation
 ==========================
@@ -183,15 +183,15 @@ Installation instructions, tutorials, in-depth API and module documentation:
 Güvenlik Tavsiyeleri
 ===================
 Salt'ın projesine dikkat edin
-`Güvenlik Duyuruları
+`Güvenlik Duyuruları <https://saltproject.io/security-announcements/>`_
 Açılış sayfası. Salt Projesi,
-`Salt Proje Güvenliği RSS Feed <https://saltproject.io/feed/?post_type=security>` _
+`Salt Proje Güvenliği RSS Feed <https://saltproject.io/feed/?post_type=security>`_
 Güvenlik ile ilgili yeni bilgiler mevcut olduğunda bildirim almak için
 duyurular.
 
 Güvenlik duyuruları alacak diğer kanallar arasında
-`Salt Topluluğu Posta Listesi <https://groups.google.com/forum/#! Forum/salt-users>` _ _
-ve `Salt projesi topluluğu Slack`_.
+`Salt Topluluğu Posta Listesi <https://groups.google.com/forum/#!forum/salt-users>`_
+ve `Salt projesi topluluğu Slack`.
 
 Security advisories
 ===================
@@ -209,7 +209,7 @@ and the `Salt Project Community Slack`_.
 Güvenlik açıklarını sorumlu bir şekilde raporlama
 ++++++++++++++++++++++++++++++++++++++++++++++
 Salt veya diğer SaltStack projeleri için güvenlik açıklarını bildirirken,
-Bu depoda bulunan `securn.md`_ dosyasına bakın.
+Bu depoda bulunan `SECURITY.md`_ dosyasına bakın.
 
 Responsibly reporting security vulnerabilities
 ++++++++++++++++++++++++++++++++++++++++++++++
@@ -229,20 +229,20 @@ Salt'ı uzatmaya veya tuzla ilgili bir sorunu çözmek için yardımcı olmak is
 Topluluk ve bugün katkıda bulun.
 
 Lütfen gözden geçirdiğinizden emin olun
-`Davranış Kuralları <https://github.com/saltstack/salt/blob/master/code_of_conduct.md>` `_.
+`Davranış Kuralları <https://github.com/saltstack/salt/blob/master/CODE_OF_CONDUCT.md>`_.
 Ayrıca, bazı topluluk kaynaklarımıza göz atın:
 
-* `Salt Projesi Topluluğu Wiki <https://github.com/saltstack/community/wiki>` _
+* `Salt Projesi Topluluğu Wiki <https://github.com/saltstack/community/wiki>`_
 * `Salt Projesi Topluluğu Slack`_
-* `Salt Projesi: Liberachat'ta IRC <https://web.libera.chat/#salt>` _
-* `Salt Projesi YouTube Kanalı <https://www.youtube.com/channel/ucpetiucfx9ljgelw63-bwg>` `_
-* `Salt Projesi Twitch Kanalı <https://www.twitch.tv/saltprojectoss>` _
+* `Salt Projesi: Liberachat'ta IRC <https://web.libera.chat/#salt>`_
+* `Salt Projesi YouTube Kanalı <https://www.youtube.com/channel/UCpveTIucFx9ljGelW63-BWg>`_
+* `Salt Projesi Twitch Kanalı <https://www.twitch.tv/saltprojectoss>`_
 
 Topluluğumuza katılmanın birçok yolu var. Her ay var
 Diğer katkıda bulunanlarla ve Salt çekirdeğiyle buluşmak için yaklaşık bir düzine fırsat
 Takım ve gerçek zamanlı işbirliği yapın. İzlemenin en iyi yolu abone olmaktır
 ** Salt Projesi Topluluğu Etkinlikleri Takvimi **
-`<https://saltproject.io>` _ web sitesi.
+`<https://saltproject.io>`_  web sitesi.
 
 Ek sorularınız varsa, bize saltproject@vmware.com adresinden e -posta gönderin veya ulaşın
 Doğrudan topluluk yöneticisi Jimmy Chunga'ya Slack ile. Memnun olurduk
@@ -284,17 +284,17 @@ Lisans
 =======
 Salt, Apache 2.0 lisansı altında lisanslanmıştır. Lütfen
 bkz
-`Lisans dosyası <https://github.com/saltstack/salt/blob/master/license> _ _
+`Lisans dosyası <https://github.com/saltstack/salt/blob/master/LICENSE>`_
 Apache lisansının tam metni, ardından lisansın tam bir özeti
 harici modüller tarafından kullanılır.
 
 
 İlişkilendirmelerin ve bağımlılıkların tam listesini 
-burada bulabilirsiniz :'salt\/DEPENDENCIES.md<https:\/\/github.com\/saltstack\/salt\/blob\/master\/DEPENDENCIES.md>'_
+burada bulabilirsiniz :`salt/DEPENDENCIES.md <https://github.com/saltstack/salt/blob/master/DEPENDENCIES.md>`_
 
-.. _Salt Proje Topluluğu Gevşekliği: https:\/\/join.slack.com\/t\/saltstackcommunity\/shared_invite\/zt-3av8jjyf-oBQ2M0vhXOhJpNpRkPWBvg
-.. _vRealize Otomasyonu SaltStack Yapılandırması: https:\/\/www.vmware.com\/products\/vrealize-automation\/saltstack-config.html
-.. _Sonuncu Salt Belgeleri: https:\/\/docs.saltproject.io\/en\/latest\/
+.. _Salt Proje Topluluğu Gevşekliği: https://join.slack.com/t/saltstackcommunity/shared_invite/zt-3av8jjyf-oBQ2M0vhXOhJpNpRkPWBvg
+.. _vRealize Otomasyonu SaltStack Yapılandırması: https://www.vmware.com/products/vrealize-automation/saltstack-config.html
+.. _Son Salt Belgeleri: https://docs.saltproject.io/en/latest/
 .. _Bir konu aç: https://github.com/saltstack/salt/issues/new/choose
 .. _SECURITY.md: https://github.com/saltstack/salt/blob/master/SECURITY.md
 .. _Calendar html: 
