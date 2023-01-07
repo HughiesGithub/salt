@@ -46,19 +46,33 @@ Salt Hakkında
 ==========
 Python üzerine inşa edilen Salt, karmaşık BT sistemlerini dağıtmak, yapılandırmak ve yönetmek için olay odaklı bir otomasyon aracı ve çerçevesidir. Ortak Altyapı İdaresi görevlerini otomatikleştirmek için "Salt" kullanın ve altyapınızın tüm bileşenlerinin istenen tutarlı bir durumda çalıştığından emin olun.
 
-About Salt
-==========
-Built on Python, Salt is an event-driven automation tool and framework to 
-deploy, configure, and manage complex IT systems. Use Salt to automate common 
-infrastructure administration tasks and ensure that all the components of your 
-infrastructure are operating in a consistent desired state.
-
 Salt, yapılandırma yönetimi de dahil olmak üzere birçok olası kullanıma sahiptir.
 
 * İşletim sistemi dağıtım ve yapılandırmasını yönetme.
 * Yazılım uygulamalarını ve hizmetlerini yükleme ve yapılandırma.
 * Sunucuları, sanal makineleri, kapları, veritabanlarını, web sunucularını yönetme, ağ cihazları ve daha fazlası.
 * Tutarlı yapılandırmanın sağlanması ve yapılandırmanın sürüklenmesini önleme.
+
+Salt, konfigürasyon yönetimi için idealdir, çünkü takılabilir,
+Özelleştirilebilir ve birçok mevcut teknolojiyle iyi oynar. Salt sizi mümkün kılar
+Neredeyse her şeyde çalışan herhangi bir teknoloji yığınını kullanan uygulamaları dağıtmak ve yönetmek için
+`İşletim Sistemi <https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-supported-operating-systems.html>`_, 
+Anahtarlar ve yönlendiriciler gibi farklı ağ aygıtları türleri dahil
+Çeşitli satıcılar.
+
+Konfigürasyon yönetimi salt ek olarak, şunları da yapabilir
+
+* Gereken ortak görevler gibi rutin BT işlemlerini otomatikleştirin ve düzenleyin
+  Planlanan sunucu aşağı zamanları veya işletim sistemlerini veya uygulamalarını yükseltme için.
+* Otomatik olarak yanıt verebilecek kendi farkında, kendini iyileştiren sistemler oluşturun
+  kesintiler, ortak yönetim sorunları veya diğer önemli olaylar.
+
+About Salt
+==========
+Built on Python, Salt is an event-driven automation tool and framework to 
+deploy, configure, and manage complex IT systems. Use Salt to automate common 
+infrastructure administration tasks and ensure that all the components of your 
+infrastructure are operating in a consistent desired state.
 
 Salt has many possible uses, including configuration management, which involves:
 
@@ -68,13 +82,6 @@ Salt has many possible uses, including configuration management, which involves:
   network devices, and more.
 * Ensuring consistent configuration and preventing configuration drift.
 
-Salt, konfigürasyon yönetimi için idealdir, çünkü takılabilir,
-Özelleştirilebilir ve birçok mevcut teknolojiyle iyi oynar. Salt sizi mümkün kılar
-Neredeyse her şeyde çalışan herhangi bir teknoloji yığınını kullanan uygulamaları dağıtmak ve yönetmek için
-`İşletim Sistemi <https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-supported-operating-systems.html>`_, 
-Anahtarlar ve yönlendiriciler gibi farklı ağ aygıtları türleri dahil
-Çeşitli satıcılar.
-
 Salt is ideal for configuration management because it is pluggable, 
 customizable, and plays well with many existing technologies. Salt enables you 
 to deploy and manage applications that use any tech stack running on nearly any 
@@ -82,14 +89,7 @@ to deploy and manage applications that use any tech stack running on nearly any
 including different types of network devices such as switches and routers from a 
 variety of vendors.
 
-Konfigürasyon yönetimi tuzuna ek olarak, şunları da yapabilir:
-
 In addition to configuration management Salt can also:
-
-* Gereken ortak görevler gibi rutin BT işlemlerini otomatikleştirin ve düzenleyin
-  Planlanan sunucu aşağı zamanları veya işletim sistemlerini veya uygulamalarını yükseltme için.
-* Otomatik olarak yanıt verebilecek kendi farkında, kendini iyileştiren sistemler oluşturun
-  kesintiler, ortak yönetim sorunları veya diğer önemli olaylar.
 
 * Automate and orchestrate routine IT processes, such as common required tasks 
   for scheduled server downtimes or upgrading operating systems or applications.
@@ -148,7 +148,7 @@ To download and install Salt, see:
 
 Teknik Destek
 =================
-Bir sorun açarak tuz kullanma hatalarını veya sorunları bildirin: `<https://github.com/saltstack/salt/issues>`_
+Bir sorun açarak Salt kullanma hatalarını veya sorunları bildirin: `<https://github.com/saltstack/salt/issues>`_
 
 Fikirleri, en iyi uygulamaları değiştirebileceğiniz topluluk forumumuza katılmak için,
 Teknik destek sorularını tartışın ve proje bakımcılarıyla konuşun,
@@ -225,7 +225,7 @@ En yaygın olanı başarmak için çeşitli yürütme ve durum modülleri oluşt
 Görevler veya rolünüzdeki en önemli sorunları çözün
 yüzüne.
 
-Salt'ı uzatmaya veya tuzla ilgili bir sorunu çözmek için yardımcı olmak istiyorsanız,
+Salt'ı uzatmaya veya salt ile ilgili bir sorunu çözmek için yardımcı olmak istiyorsanız,
 Topluluk ve bugün katkıda bulun.
 
 Lütfen gözden geçirdiğinizden emin olun
