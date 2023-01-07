@@ -34,7 +34,7 @@
    :alt: Salt Project Logo
 
 * `Son Salt Belgeleri`_
-* `Bir konu açın bug report, feature request, etc.)`
+* `Bir konu açın` bug report, feature request, etc.)
 * `Open an issue`_ (bug report, feature request, etc.)
 
 *Salt is the world's fastest, smartest and scalable automation*
